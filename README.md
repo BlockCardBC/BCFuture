@@ -22,7 +22,7 @@
 ### Структура проекта (упрощенно)
 - `src/` — приложение (React)
   - `components/` — экраны, виджеты, модули трейдинга/турниров
-  - `services/` — интеграции (firebase, dexscreener, wallet, trading, tournament, referral, vip)
+  - `services/` — интеграции (wallet, trading, tournament, referral, vip)
   - `contexts/`, `hooks/`, `translations/`, `types/`, `utils/`
 - `public/` — статика, `tonconnect-manifest.json`
 - `functions/` — Firebase Cloud Functions (TypeScript → `lib/`)
