@@ -25,7 +25,6 @@
   - `services/` — интеграции (wallet, trading, tournament, referral, vip)
   - `contexts/`, `hooks/`, `translations/`, `types/`, `utils/`
 - `public/` — статика, `tonconnect-manifest.json`
-- `functions/` — Firebase Cloud Functions (TypeScript → `lib/`)
 - `dist/` — сборка фронтенда
 
 
